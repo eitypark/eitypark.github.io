@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eitypark.github.io/sitemap.html.gz
+Sitemap: https://eitypark.github.io/app/sitemap.html.gz
+Sitemap: https://eitypark.github.io/assets/sitemap.html.gz
+Sitemap: https://eitypark.github.io/css/sitemap.html.gz
+Sitemap: https://eitypark.github.io/includes/sitemap.html.gz
+Sitemap: https://eitypark.github.io/item/sitemap.html.gz
+Sitemap: https://eitypark.github.io/src/sitemap.html.gz
